@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Voxyy11/Voxyy11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,47 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+# Titre 1 
+
+## Titre 2
+
+- item 1 
+- item 2
+    - item2.1
+
+
+**Gras** , *italie*
+
+
+
+### TO DO 
+-[x] Todo 1
+
+
+
+### code 
+
+```C
+struct p {
+intx;
+inty;
+};
+
+```
+
+```Python
+def main():
+    print("hello");
+
+```
+
+
+![chien](https://picsum.photos/id/237/200/300)
+
+
+### EQ
+
+$$ e = mc^2 $$
+
